@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Jul 2024 23:25:37 at https://themazine.com/html/Lebari_new/lebari/lebari/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themazine.com/html/Lebari_new/lebari/lebari/index.html -O1 "C:\My Web Sites\cen" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:37:49	Warning: 	Retry after error 409 (Conflict) at link https://themazine.com/html/Lebari_new/lebari/lebari/contact.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index.html)
+23:37:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themazine.com/html/Lebari_new/lebari/lebari/donation.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index.html)
+23:38:33	Warning: 	Retry after error 409 (Conflict) at link https://themazine.com/html/Lebari_new/lebari/lebari/images/icons/contact-arrow.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/style.css)
+23:38:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themazine.com/html/Lebari_new/lebari/lebari/images/icons/waves-shape.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/style.css)
+23:38:33	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/shop-single.html (from https://themazine.com/html/Lebari_new/lebari/lebari/course.html)
+23:38:33	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/shoping-cart.html (from https://themazine.com/html/Lebari_new/lebari/lebari/course.html)
+23:38:33	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/checkout.html (from https://themazine.com/html/Lebari_new/lebari/lebari/course.html)
+23:38:33	Warning: 	Retry after error 409 (Conflict) at link https://themazine.com/html/Lebari_new/lebari/lebari/images/resource/contact.png (from https://themazine.com/html/Lebari_new/lebari/lebari/index-2.html)
+23:38:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themazine.com/html/Lebari_new/lebari/lebari/images2/icons/icon-11.png (from https://themazine.com/html/Lebari_new/lebari/lebari/index-3.html)
+23:38:33	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/courses-single.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index-3.html)
+23:38:33	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/events-single.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index-3.html)
+23:38:33	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/news-detail.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index-3.html)
+23:38:33	Warning: 	Retry after error 409 () at link https://themazine.com/html/Lebari_new/lebari/lebari/contact.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index.html)
+23:38:38	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/css/owl.video.play.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/owl.css)
+23:38:38	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/css/images/ui-icons_777620_256x240.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/jquery-ui.css)
+23:38:38	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/css/images/ui-icons_cc0000_256x240.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/jquery-ui.css)
+23:38:38	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/css/images/ui-icons_777777_256x240.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/jquery-ui.css)
+23:38:38	Error: 	"Not Found" (404) at link https://themazine.com/html/Lebari_new/lebari/lebari/css/mCSB_buttons.html (from https://themazine.com/html/Lebari_new/lebari/lebari/css/jquery.mCustomScrollbar.min.css)
+23:38:38	Warning: 	Retry after error 409 () at link https://themazine.com/html/Lebari_new/lebari/lebari/images/icons/contact-arrow.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/style.css)
+23:38:38	Warning: 	Retry after error 409 () at link https://themazine.com/html/Lebari_new/lebari/lebari/images/resource/contact.png (from https://themazine.com/html/Lebari_new/lebari/lebari/index-2.html)
+23:38:38	Error: 	"" (409) after 2 retries at link https://themazine.com/html/Lebari_new/lebari/lebari/contact.html (from https://themazine.com/html/Lebari_new/lebari/lebari/index.html)
+23:38:38	Warning: 	Retry after error 409 (Conflict) at link https://themazine.com/html/Lebari_new/lebari/lebari/images/resource/contact-1.png (from https://themazine.com/html/Lebari_new/lebari/lebari/donation.html)
+23:38:38	Error: 	"" (409) after 2 retries at link https://themazine.com/html/Lebari_new/lebari/lebari/images/icons/contact-arrow.png (from https://themazine.com/html/Lebari_new/lebari/lebari/css/style.css)
+23:38:38	Error: 	"" (409) after 2 retries at link https://themazine.com/html/Lebari_new/lebari/lebari/images/resource/contact.png (from https://themazine.com/html/Lebari_new/lebari/lebari/index-2.html)
+23:38:38	Warning: 	Retry after error 409 () at link https://themazine.com/html/Lebari_new/lebari/lebari/images/resource/contact-1.png (from https://themazine.com/html/Lebari_new/lebari/lebari/donation.html)
+23:38:38	Error: 	"" (409) after 2 retries at link https://themazine.com/html/Lebari_new/lebari/lebari/images/resource/contact-1.png (from https://themazine.com/html/Lebari_new/lebari/lebari/donation.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 1 seconds : 404 links scanned, 377 files written (26130816 bytes overall) [25634874 bytes received at 32823 bytes/sec], 810103 bytes transferred using HTTP compression in 22 files, ratio 25%, 1.0 requests per connection
+(15 errors, 11 warnings, 0 messages)
